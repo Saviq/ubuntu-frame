@@ -4,4 +4,3 @@ up_to_date_approvals = true
 timeout-sec = 1200
 delete-merged-branches = true
 update_base_for_deletes = true
-use_squash_merge = true
